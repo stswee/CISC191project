@@ -2,7 +2,7 @@ package probabilitystatsproject;
 
 /**
  * Lead Author(s):
- * @author Steven Swee
+ * @author Steven Swee test
  * 
  * References:
  * 
